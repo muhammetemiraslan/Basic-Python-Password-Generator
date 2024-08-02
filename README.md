@@ -27,6 +27,7 @@ Bu proje Python 3.x ile uyumludur. Çalıştırmadan önce Python'un yüklü old
     python generate_password.py
     ```
 
+
 ### Şifre Oluşturma ve Kaydetme
 
 1. `generate_password.py` dosyasını çalıştırın.
