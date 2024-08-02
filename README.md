@@ -39,7 +39,6 @@ Bu proje Python 3.x ile uyumludur. Çalıştırmadan önce Python'un yüklü old
 ```bash
 python generate_password.py
 
-# ---------------------------------------------------------------------------
 
 # Secure Password Generator
 
