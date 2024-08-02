@@ -18,7 +18,7 @@ Bu proje Python 3.x ile uyumludur. Çalıştırmadan önce Python'un yüklü old
 
 1. Bu projeyi yerel makinenize klonlayın veya indirin.
     ```bash
-    git clone https://github.com/kullanıcı_adınız/secure-password-generator.git
+    git clone https://github.com/muhammetemiraslan/secure-password-generator.git
     cd secure-password-generator
     ```
 
@@ -60,7 +60,7 @@ This project is compatible with Python 3.x. Make sure Python is installed before
 
 1. Clone or download this project to your local machine.
     ```bash
-    git clone https://github.com/your_username/secure-password-generator.git
+    git clone https://github.com/muhammetemiraslan/secure-password-generator.git
     cd secure-password-generator
     ```
 
